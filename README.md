@@ -149,7 +149,3 @@ video-rag-agent/
 - Exportação de resumos em PDF/Markdown.
 
 - Interface multi‑usuário (Streamlit Secrets).
-
-# 📄 Licença
-
-MIT License – livre para usar, modificar e compartilhar.
